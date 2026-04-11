@@ -52,5 +52,14 @@ LOG ON
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/DoniaEid/SQL/tree/master/0013-roman-to-integer) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/DoniaEid/SQL/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/DoniaEid/SQL/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/DoniaEid/SQL/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
