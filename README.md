@@ -42,3 +42,15 @@ LOG ON
    FILEGROWTH = 8MB,
    MAXSIZE = UNLIMITED
 );
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/DoniaEid/SQL/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+## Hash Table
+|  |
+| ------- |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/DoniaEid/SQL/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+<!---LeetCode Topics End-->
