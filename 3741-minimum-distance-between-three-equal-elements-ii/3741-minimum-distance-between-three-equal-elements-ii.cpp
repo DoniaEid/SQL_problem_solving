@@ -1,28 +1,24 @@
 class Solution {
 public:
     int minimumDistance(vector<int>& nums) {
-        map<int, int> freq; 
-        map<int, vector<int>> last_indices; 
-        
-        long long res = -1;
-
+        unordered_map<int, vector<int>> pos;
         for (int i = 0; i < nums.size(); i++) {
-            int x = nums[i];
-            freq[x]++;
-            last_indices[x].push_back(i);
+            pos[nums[i]].push_back(i);
+        }
 
-            if (freq[x] >= 3) {
-                int size = last_indices[x].size();
-                int first_idx = last_indices[x][size - 3];
-                
-                long long current_dist = 2LL * (i - first_idx);
+        vector<long long> allDistances;
 
-                if (res == -1 || current_dist < res) {
-                    res = current_dist;
+        for (auto const& [val, indices] : pos) {
+            if (indices.size() >= 3) {
+                for (int i = 0; i <= (int)indices.size() - 3; i++) {
+                    long long d = 2LL * (indices[i + 2] - indices[i]);
+                    allDistances.push_back(d);
                 }
             }
         }
-        
-        return (int)res;
+
+        if (allDistances.empty()) return -1;
+
+        return *min_element(allDistances.begin(), allDistances.end());
     }
 };
