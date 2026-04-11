@@ -12,7 +12,7 @@ public:
         int sum=0;
         for(int i=0;i<s.size();i++){
             int j=i;
-           if(m[s[j]]<m[s[j+1]]&&i + 1 < s.size()){
+           if( m[s[j]]<m[s[j+1]] && i + 1 < s.size()){
               sum+=m[s[j+1]]-m[s[j]];
               i++;
            }
