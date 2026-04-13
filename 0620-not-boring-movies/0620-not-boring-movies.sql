@@ -1,6 +1,6 @@
-
+-- without function
 select * from Cinema
-where description!='boring' and id%2!=0
+where description not like 'boring' and id%2!=0
 order by rating desc
 
 
