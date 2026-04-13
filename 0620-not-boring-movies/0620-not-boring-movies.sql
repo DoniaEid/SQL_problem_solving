@@ -10,11 +10,3 @@ order by rating desc
 
 
 
-
-
-
-
-
-
-
-
