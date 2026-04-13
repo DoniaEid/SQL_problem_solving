@@ -18,6 +18,3 @@ order by rating desc
 
 
 
-
-
-
