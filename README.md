@@ -104,5 +104,6 @@
 ## Database
 |  |
 | ------- |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/DoniaEid/SQL_problem_solving/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/DoniaEid/SQL_problem_solving/tree/master/0577-employee-bonus) |
 <!---LeetCode Topics End-->
