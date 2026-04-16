@@ -86,3 +86,19 @@
 - [Instant SQL Formatter](http://www.dpriver.com/pp/sqlformat.htm)
 - [Variables in MySQL](https://stackoverflow.com/a/11754790)
 - [Median in MySQL](https://stackoverflow.com/a/7263925)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3488-closest-equal-element-queries](https://github.com/DoniaEid/SQL_problem_solving/tree/master/3488-closest-equal-element-queries) |
+## Hash Table
+|  |
+| ------- |
+| [3488-closest-equal-element-queries](https://github.com/DoniaEid/SQL_problem_solving/tree/master/3488-closest-equal-element-queries) |
+## Binary Search
+|  |
+| ------- |
+| [3488-closest-equal-element-queries](https://github.com/DoniaEid/SQL_problem_solving/tree/master/3488-closest-equal-element-queries) |
+<!---LeetCode Topics End-->
