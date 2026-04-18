@@ -106,5 +106,6 @@
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/DoniaEid/SQL_problem_solving/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/DoniaEid/SQL_problem_solving/tree/master/0577-employee-bonus) |
+| [1068-product-sales-analysis-i](https://github.com/DoniaEid/SQL_problem_solving/tree/master/1068-product-sales-analysis-i) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/DoniaEid/SQL_problem_solving/tree/master/1633-percentage-of-users-attended-a-contest) |
 <!---LeetCode Topics End-->
