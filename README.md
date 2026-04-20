@@ -1,9 +1,8 @@
 
 <h1 align="center">SQL Problem Solving</h1>
-
 <p align="center">  
   <a href="https://leetcode.com/u/donia_eid123/" target="_blank">
-    <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode Logo">
+    <img height="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" alt="LeetCode Logo" style="filter: brightness(0) invert(1);">
   </a>
 </p>
 ## Description
