@@ -2,9 +2,8 @@
 <h1 align="center">SQL Problem Solving</h1>
 
 <p align="center">  
-	<img height=33 src="https://hrcdn.net/community-frontend/assets/brand/logo-new-white-green-a5cb16e0ae.svg">
+	<img height="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/public/icons/social/leetcode/main.svg" alt="LeetCode Logo">
 </p>
-
 ## Description
 ### The solutions of all the SQL challenges on HackerRank executed on MySQL environment compiled with helpful Resources & references related to the challenges.
 
