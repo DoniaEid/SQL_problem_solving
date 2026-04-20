@@ -111,6 +111,7 @@
 | [0595-big-countries](https://github.com/DoniaEid/SQL_problem_solving/tree/master/0595-big-countries) |
 | [1068-product-sales-analysis-i](https://github.com/DoniaEid/SQL_problem_solving/tree/master/1068-product-sales-analysis-i) |
 | [1070-product-sales-analysis-iii](https://github.com/DoniaEid/SQL_problem_solving/tree/master/1070-product-sales-analysis-iii) |
+| [1148-article-views-i](https://github.com/DoniaEid/SQL_problem_solving/tree/master/1148-article-views-i) |
 | [1211-queries-quality-and-percentage](https://github.com/DoniaEid/SQL_problem_solving/tree/master/1211-queries-quality-and-percentage) |
 | [1280-students-and-examinations](https://github.com/DoniaEid/SQL_problem_solving/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/DoniaEid/SQL_problem_solving/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
