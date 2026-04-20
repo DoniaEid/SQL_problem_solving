@@ -110,6 +110,7 @@
 | [1068-product-sales-analysis-i](https://github.com/DoniaEid/SQL_problem_solving/tree/master/1068-product-sales-analysis-i) |
 | [1070-product-sales-analysis-iii](https://github.com/DoniaEid/SQL_problem_solving/tree/master/1070-product-sales-analysis-iii) |
 | [1211-queries-quality-and-percentage](https://github.com/DoniaEid/SQL_problem_solving/tree/master/1211-queries-quality-and-percentage) |
+| [1280-students-and-examinations](https://github.com/DoniaEid/SQL_problem_solving/tree/master/1280-students-and-examinations) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/DoniaEid/SQL_problem_solving/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1661-average-time-of-process-per-machine](https://github.com/DoniaEid/SQL_problem_solving/tree/master/1661-average-time-of-process-per-machine) |
 <!---LeetCode Topics End-->
