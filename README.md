@@ -5,9 +5,8 @@
     <img height="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" alt="LeetCode Logo" style="filter: brightness(0) invert(1);">
   </a>
 </p>
-## Description
-### The solutions of all the SQL challenges on HackerRank executed on MySQL environment compiled with helpful Resources & references related to the challenges.
-
+## 🚀 Description
+### This repository contains optimized solutions for **LeetCode SQL challenges**, executed in a **MySQL** environment. Each solution is documented with efficient queries and helpful resources to master database management and complex relational logic.
 # Domains
 
 ## Basic Select Challenges
