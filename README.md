@@ -9,3 +9,23 @@
 ### This repository contains optimized solutions for **LeetCode SQL challenges**, executed in a **MySQL** environment. Each solution is documented with efficient queries and helpful resources to master database management and complex relational logic.
 # Domains
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/DoniaEid/SQL_problem_solving/tree/master/0199-binary-tree-right-side-view) |
+## Depth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/DoniaEid/SQL_problem_solving/tree/master/0199-binary-tree-right-side-view) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/DoniaEid/SQL_problem_solving/tree/master/0199-binary-tree-right-side-view) |
+## Binary Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/DoniaEid/SQL_problem_solving/tree/master/0199-binary-tree-right-side-view) |
+<!---LeetCode Topics End-->
