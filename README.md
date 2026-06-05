@@ -31,5 +31,6 @@
 ## Database
 |  |
 | ------- |
+| [0596-classes-with-at-least-5-students](https://github.com/DoniaEid/SQL_problem_solving/tree/master/0596-classes-with-at-least-5-students) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/DoniaEid/SQL_problem_solving/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
