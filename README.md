@@ -28,4 +28,8 @@
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/DoniaEid/SQL_problem_solving/tree/master/0199-binary-tree-right-side-view) |
+## Database
+|  |
+| ------- |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/DoniaEid/SQL_problem_solving/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
