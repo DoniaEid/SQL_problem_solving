@@ -35,5 +35,6 @@
 | [0619-biggest-single-number](https://github.com/DoniaEid/SQL_problem_solving/tree/master/0619-biggest-single-number) |
 | [1045-customers-who-bought-all-products](https://github.com/DoniaEid/SQL_problem_solving/tree/master/1045-customers-who-bought-all-products) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/DoniaEid/SQL_problem_solving/tree/master/1141-user-activity-for-the-past-30-days-i) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/DoniaEid/SQL_problem_solving/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/DoniaEid/SQL_problem_solving/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
