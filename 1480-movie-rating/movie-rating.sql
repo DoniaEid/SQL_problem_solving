@@ -12,9 +12,8 @@ highest_average AS (
     SELECT m.title
     FROM Movies m
     INNER JOIN MovieRating mr
-        ON mr.movie_id = m.movie_id
-    WHERE YEAR(mr.created_at) = 2020
-      AND MONTH(mr.created_at) = 2
+    ON mr.movie_id = m.movie_id
+    WHERE YEAR(mr.created_at) = 2020 AND MONTH(mr.created_at) = 2
     GROUP BY m.movie_id, m.title
     ORDER BY AVG(mr.rating) DESC, m.title ASC
     LIMIT 1
@@ -22,8 +21,6 @@ highest_average AS (
 
 SELECT name AS results
 FROM rated_greatest
-
 UNION ALL
-
 SELECT title AS results
 FROM highest_average;
