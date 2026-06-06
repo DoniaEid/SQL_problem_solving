@@ -38,4 +38,12 @@
 | [1341-movie-rating](https://github.com/DoniaEid/SQL_problem_solving/tree/master/1341-movie-rating) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/DoniaEid/SQL_problem_solving/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/DoniaEid/SQL_problem_solving/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Array
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/DoniaEid/SQL_problem_solving/tree/master/2574-left-and-right-sum-differences) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/DoniaEid/SQL_problem_solving/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
