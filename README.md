@@ -36,6 +36,7 @@
 | [1045-customers-who-bought-all-products](https://github.com/DoniaEid/SQL_problem_solving/tree/master/1045-customers-who-bought-all-products) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/DoniaEid/SQL_problem_solving/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1341-movie-rating](https://github.com/DoniaEid/SQL_problem_solving/tree/master/1341-movie-rating) |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/DoniaEid/SQL_problem_solving/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/DoniaEid/SQL_problem_solving/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/DoniaEid/SQL_problem_solving/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Array
