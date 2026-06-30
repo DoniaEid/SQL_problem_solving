@@ -38,6 +38,7 @@
 | [0626-exchange-seats](https://github.com/DoniaEid/SQL_problem_solving/tree/master/0626-exchange-seats) |
 | [1045-customers-who-bought-all-products](https://github.com/DoniaEid/SQL_problem_solving/tree/master/1045-customers-who-bought-all-products) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/DoniaEid/SQL_problem_solving/tree/master/1141-user-activity-for-the-past-30-days-i) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/DoniaEid/SQL_problem_solving/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1341-movie-rating](https://github.com/DoniaEid/SQL_problem_solving/tree/master/1341-movie-rating) |
 | [1484-group-sold-products-by-the-date](https://github.com/DoniaEid/SQL_problem_solving/tree/master/1484-group-sold-products-by-the-date) |
 | [1527-patients-with-a-condition](https://github.com/DoniaEid/SQL_problem_solving/tree/master/1527-patients-with-a-condition) |
