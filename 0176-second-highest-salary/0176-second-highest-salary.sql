@@ -1,4 +1,4 @@
-SELECT IFNULL(
+ select IFNULL(
     (
         SELECT DISTINCT salary
         FROM Employee
