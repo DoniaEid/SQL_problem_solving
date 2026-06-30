@@ -45,6 +45,7 @@
 | [1527-patients-with-a-condition](https://github.com/DoniaEid/SQL_problem_solving/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/DoniaEid/SQL_problem_solving/tree/master/1667-fix-names-in-a-table) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/DoniaEid/SQL_problem_solving/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
+| [1789-primary-department-for-each-employee](https://github.com/DoniaEid/SQL_problem_solving/tree/master/1789-primary-department-for-each-employee) |
 | [1907-count-salary-categories](https://github.com/DoniaEid/SQL_problem_solving/tree/master/1907-count-salary-categories) |
 | [1934-confirmation-rate](https://github.com/DoniaEid/SQL_problem_solving/tree/master/1934-confirmation-rate) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/DoniaEid/SQL_problem_solving/tree/master/1978-employees-whose-manager-left-the-company) |
