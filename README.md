@@ -79,6 +79,11 @@ I continuously update this repository as I solve more SQL problems on LeetCode.
 # 📝 LeetCode Problems
 
 <!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/DoniaEid/SQL_problem_solving/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
 
 ---
