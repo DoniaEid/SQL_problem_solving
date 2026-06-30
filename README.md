@@ -31,6 +31,7 @@
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/DoniaEid/SQL_problem_solving/tree/master/0176-second-highest-salary) |
 | [0585-investments-in-2016](https://github.com/DoniaEid/SQL_problem_solving/tree/master/0585-investments-in-2016) |
 | [0596-classes-with-at-least-5-students](https://github.com/DoniaEid/SQL_problem_solving/tree/master/0596-classes-with-at-least-5-students) |
 | [0610-triangle-judgement](https://github.com/DoniaEid/SQL_problem_solving/tree/master/0610-triangle-judgement) |
