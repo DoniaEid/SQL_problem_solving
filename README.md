@@ -84,6 +84,7 @@ I continuously update this repository as I solve more SQL problems on LeetCode.
 |  |
 | ------- |
 | [0180-consecutive-numbers](https://github.com/DoniaEid/SQL_problem_solving/tree/master/0180-consecutive-numbers) |
+| [0550-game-play-analysis-iv](https://github.com/DoniaEid/SQL_problem_solving/tree/master/0550-game-play-analysis-iv) |
 | [1164-product-price-at-a-given-date](https://github.com/DoniaEid/SQL_problem_solving/tree/master/1164-product-price-at-a-given-date) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/DoniaEid/SQL_problem_solving/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1757-recyclable-and-low-fat-products](https://github.com/DoniaEid/SQL_problem_solving/tree/master/1757-recyclable-and-low-fat-products) |
