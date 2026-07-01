@@ -4,6 +4,7 @@ WHERE (
     SELECT SUM(weight)
     FROM Queue e
     WHERE e.turn <= Q.turn
+    ORDER BY e.turn 
 ) <= 1000
 ORDER BY Q.turn desc
 limit 1
