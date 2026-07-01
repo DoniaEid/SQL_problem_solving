@@ -1,4 +1,4 @@
-SELECT DISTINCT num AS ConsecutiveNums
+SELECT distinct num AS ConsecutiveNums
 FROM Logs L
 WHERE num = (
     SELECT num
