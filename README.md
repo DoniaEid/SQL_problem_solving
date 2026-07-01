@@ -83,6 +83,7 @@ I continuously update this repository as I solve more SQL problems on LeetCode.
 ## Database
 |  |
 | ------- |
+| [0180-consecutive-numbers](https://github.com/DoniaEid/SQL_problem_solving/tree/master/0180-consecutive-numbers) |
 | [1757-recyclable-and-low-fat-products](https://github.com/DoniaEid/SQL_problem_solving/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
 
