@@ -84,6 +84,7 @@ I continuously update this repository as I solve more SQL problems on LeetCode.
 |  |
 | ------- |
 | [0180-consecutive-numbers](https://github.com/DoniaEid/SQL_problem_solving/tree/master/0180-consecutive-numbers) |
+| [0185-department-top-three-salaries](https://github.com/DoniaEid/SQL_problem_solving/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/DoniaEid/SQL_problem_solving/tree/master/0196-delete-duplicate-emails) |
 | [0550-game-play-analysis-iv](https://github.com/DoniaEid/SQL_problem_solving/tree/master/0550-game-play-analysis-iv) |
 | [1164-product-price-at-a-given-date](https://github.com/DoniaEid/SQL_problem_solving/tree/master/1164-product-price-at-a-given-date) |
