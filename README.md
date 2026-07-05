@@ -93,6 +93,7 @@ I continuously update this repository as I solve more SQL problems on LeetCode.
 | [1174-immediate-food-delivery-ii](https://github.com/DoniaEid/SQL_problem_solving/tree/master/1174-immediate-food-delivery-ii) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/DoniaEid/SQL_problem_solving/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1321-restaurant-growth](https://github.com/DoniaEid/SQL_problem_solving/tree/master/1321-restaurant-growth) |
+| [1341-movie-rating](https://github.com/DoniaEid/SQL_problem_solving/tree/master/1341-movie-rating) |
 | [1517-find-users-with-valid-e-mails](https://github.com/DoniaEid/SQL_problem_solving/tree/master/1517-find-users-with-valid-e-mails) |
 | [1757-recyclable-and-low-fat-products](https://github.com/DoniaEid/SQL_problem_solving/tree/master/1757-recyclable-and-low-fat-products) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/DoniaEid/SQL_problem_solving/tree/master/1978-employees-whose-manager-left-the-company) |
