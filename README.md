@@ -125,10 +125,19 @@ This repository is created to:
 
 ---
 
+---
+
 <div align="center">
 
-### ⭐ If you find this repository helpful, don't forget to leave a Star! ⭐
+## 🌟 Thanks for visiting!
 
-Made with ❤️ by **Donia Eid**
+If you found this repository helpful or inspiring, consider giving it a ⭐.
 
+It motivates me to keep learning and sharing more solutions.
+
+### 👩‍💻 Connect with Me
+
+💛 **LeetCode:** https://leetcode.com/u/DoniaEid/
+
+---
 </div>
