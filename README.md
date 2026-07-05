@@ -112,3 +112,11 @@
 - **Language:** SQL (Structured Query Language)
 - **Database Engine:** MySQL 8.0+
 - **Pattern:** Production-ready, highly optimized, and indexed queries.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [1934-confirmation-rate](https://github.com/DoniaEid/SQL_problem_solving/tree/master/1934-confirmation-rate) |
+<!---LeetCode Topics End-->
