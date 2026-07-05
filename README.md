@@ -89,6 +89,7 @@ I continuously update this repository as I solve more SQL problems on LeetCode.
 | [0550-game-play-analysis-iv](https://github.com/DoniaEid/SQL_problem_solving/tree/master/0550-game-play-analysis-iv) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/DoniaEid/SQL_problem_solving/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [1164-product-price-at-a-given-date](https://github.com/DoniaEid/SQL_problem_solving/tree/master/1164-product-price-at-a-given-date) |
+| [1174-immediate-food-delivery-ii](https://github.com/DoniaEid/SQL_problem_solving/tree/master/1174-immediate-food-delivery-ii) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/DoniaEid/SQL_problem_solving/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1321-restaurant-growth](https://github.com/DoniaEid/SQL_problem_solving/tree/master/1321-restaurant-growth) |
 | [1757-recyclable-and-low-fat-products](https://github.com/DoniaEid/SQL_problem_solving/tree/master/1757-recyclable-and-low-fat-products) |
