@@ -139,3 +139,11 @@ It motivates me to keep learning and sharing more solutions.
 
 ---
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/DoniaEid/SQL_problem_solving/tree/master/0175-combine-two-tables) |
+<!---LeetCode Topics End-->
