@@ -146,4 +146,5 @@ It motivates me to keep learning and sharing more solutions.
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/DoniaEid/SQL_problem_solving/tree/master/0175-combine-two-tables) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/DoniaEid/SQL_problem_solving/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 <!---LeetCode Topics End-->
