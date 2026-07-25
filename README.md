@@ -152,4 +152,5 @@ It motivates me to keep learning and sharing more solutions.
 | [1045-customers-who-bought-all-products](https://github.com/DoniaEid/SQL_problem_solving/tree/master/1045-customers-who-bought-all-products) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/DoniaEid/SQL_problem_solving/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1193-monthly-transactions-i](https://github.com/DoniaEid/SQL_problem_solving/tree/master/1193-monthly-transactions-i) |
+| [1341-movie-rating](https://github.com/DoniaEid/SQL_problem_solving/tree/master/1341-movie-rating) |
 <!---LeetCode Topics End-->
